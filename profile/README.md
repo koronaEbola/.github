@@ -1,4 +1,4 @@
-## The Future of Molecular Design And Synthetic Biology Workflows
+## The Future of Molecular Design And Synthetic Biology Workflows On Distributed Architecture
 
 <a href="https://nanome.ai/">
 <img src="https://koronaebola.github.io/4.png" />

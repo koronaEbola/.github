@@ -1,5 +1,5 @@
-## The Future of Molecular Design And Synthetic Biology Workflows
- - Use Distributed Architecture And 3D Engines
+# The Future of Molecular Design And Synthetic Biology Workflows
+## - Using Distributed Architecture And 3D Engines
 
 <a href="https://protocol.ai">
 <img src="https://koronaebola.github.io/2.png" />

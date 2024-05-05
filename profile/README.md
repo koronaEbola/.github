@@ -25,6 +25,10 @@
 
 <a href="https://huggingface.co/">
 <img src="https://koronaebola.github.io/hf.jpg" />
+</a>   
+
+<a href="https://nanome.ai/matryx/">
+<img src="https://koronaebola.github.io/matryx.png" />
 </a>
 
 <!--

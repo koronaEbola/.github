@@ -21,6 +21,12 @@
 <img src="https://koronaebola.github.io/tVrs.jpg" />
 </a>
 
+<img src="https://koronaebola.github.io/chem.png" />
+
+<a href="https://huggingface.co/">
+<img src="https://koronaebola.github.io/hf.jpg" />
+</a>
+
 <!--
 
 **Here are some ideas to get you started:**
